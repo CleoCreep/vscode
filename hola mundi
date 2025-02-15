@@ -1,0 +1,9 @@
+.Sunflower_Love {
+    width: 35px;
+    position: absolute;
+    top: 36px;
+    left: -30px;
+    font-size: 35px;
+    text-align: center;
+    font-family: "Indie Flower";
+}
